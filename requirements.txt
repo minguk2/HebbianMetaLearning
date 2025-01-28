@@ -4,6 +4,6 @@ matplotlib>=3.2.1
 Box2D>=2.3.10
 atari-py>=0.2.6
 opencv-python>=4.2.0.34
-gym>=0.17.1
+gym==0.17.1
 torch>=1.6.0
 pybullet==2.6.6
